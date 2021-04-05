@@ -1,6 +1,6 @@
-// Your name
-// Your UMKC Email Address
-// Today's date
+// Joe Epperson, IV
+// jee4cf@umsystem.edu
+// 4/05/2021
 // CS201L Lab 11
 
 #include "Fraction.h"

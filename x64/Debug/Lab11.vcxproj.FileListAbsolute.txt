@@ -1,0 +1,2 @@
+C:\All Items\GitHub\Lab11\x64\Debug\Lab11.exe
+C:\All Items\GitHub\Lab11\x64\Debug\Lab11.pdb
